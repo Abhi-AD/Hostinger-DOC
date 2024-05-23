@@ -10,7 +10,7 @@ Example:- `ssh -p 21350 root@216.32.44.12`
 #### Note:- Run Below Commands on Your Local Machine, Not on Your VPS or Remote Server
 - Generate SSH Key
 ```sh
-ssh-keygen -f rsa -b <file_size>
+ssh-keygen -t rsa -b <file_size>
 ```
 
 - Extra Security Layer(PassPharse):
