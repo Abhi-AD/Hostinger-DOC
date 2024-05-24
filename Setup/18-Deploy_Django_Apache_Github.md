@@ -99,7 +99,9 @@ DATABASES = {
 - Using HTTPS Path It doesnt require to setup SSH Key on Github
 ```sh
   Syntax:- git clone <https_repo_path>
-  Example:- git clone https://github.com/Abhi-AD/Hostinger-DOC.git
+  PublicExample:- git clone https://github.com/Abhi-AD/Hostinger-DOC.git
+  PrivateExample:- GIT_SSH_COMMAND="ssh -i~/.ssh/<key>" git clone https://github.com/Abhi-AD/Hostinger-DOC.git
+
 ```
 - Using SSH Path It requires to setup SSH Key on Github
 ```sh
