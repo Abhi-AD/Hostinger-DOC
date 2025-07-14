@@ -1,4 +1,4 @@
-# Hostinger Document Step by Step Notes...  
+# Hostinger Document Step by Step Notes.. 
 ## Introduction
 Welcome to Hostinger_Doc! This repository serves as a comprehensive documentation resource for Hostinger services and products. Whether you're a beginner looking to set up your first website or an experienced developer optimizing your server configurations, this documentation will provide you with the necessary information and guides.
 
